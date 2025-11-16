@@ -3,6 +3,8 @@
 An interactive Power BI dashboard built to analyze employee attrition. This project identifies key problem areas (like new hire retention, low pay, and high-risk roles) by analyzing data by age, salary, job role, and tenure. The goal is to help HR make data-driven decisions to reduce attrition. Tools: Power BI, Power Query, DAX.
 
 The dashboard was built using the followings tools and technologies:
+
+
 . Power BI Desktop - Main data visualization platform used for report creation.
 . Power Query - Data transformation and cleaning layer for reshaping and preparing the data.
 . DAX (Data Analysis Expressions) - Used for calculated measures,dynamic visuals and conditional logic.
