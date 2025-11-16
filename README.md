@@ -1,5 +1,3 @@
-# Project Title
-
 # HR-Attrition-Analysis-Dashboard-Project
 
 # Purpose:
@@ -20,11 +18,11 @@ The dashboard was built using the followings tools and technologies:
 
 # Features
 
-Business Problem:
+# Business Problem:
 
 The company was losing too many employees, and it cost a lot of money to hire and train new people. The managers didn't know the real reasons why people were leaving or which departments had the biggest problem.
 
-Key questions such as:
+# Key questions such as:
 
 How many people are leaving?
 
@@ -34,7 +32,7 @@ What are the main reasons people are quitting (like salary, managers, or work-li
 
 Are we losing new employees or older, experienced ones?
 
-Key Visuals:
+# Key Visuals:
 
 I used a mix of charts to tell the story behind the data:
 
@@ -50,7 +48,7 @@ Donut Chart: To show a quick percentage breakdown, like "Voluntary" vs. "Involun
 
 Matrix (Table): To show more detailed information, like a breakdown of attrition by both "Department" and "Job Role" at the same time.
 
-Business Impact and Insights:
+# Business Impact and Insights:
 
 This dashboard helped the company stop guessing and start taking action.
 
@@ -60,7 +58,7 @@ Insight: For example, the dashboard clearly showed that the Sales team had the h
 
 Action: Because of this insight, the company reviewed the salary and bonus plan for the Sales team, which helped in keeping more employees.
 
-Screenshot:
+# Screenshot:
 
 https://github.com/anjalipathania994-cmd/HR-attrition-analysis-dashboard-Project/blob/main/HR%20ATTRITION%20ANALYSIS%20Dashboard%20image.png
 
