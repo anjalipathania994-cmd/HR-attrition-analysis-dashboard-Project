@@ -32,3 +32,7 @@ Impact: Instead of wasting money on company-wide changes, HR could now focus on 
 Insight: For example, the dashboard clearly showed that the Sales team had the highest attrition rate (25%). The main reason was not bad managers, but low salary.
 Action: Because of this insight, the company reviewed the salary and bonus plan for the Sales team, which helped in keeping more employees.
 
+Screenshot:
+https://github.com/anjalipathania994-cmd/HR-attrition-analysis-dashboard-Project/blob/main/HR%20ATTRITION%20ANALYSIS%20Dashboard%20image.png
+
+
