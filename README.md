@@ -1,9 +1,12 @@
 # HR-Attrition-Analysis-Dashboard-Project
 
+# Purpose:
+
 An interactive Power BI dashboard built to analyze employee attrition. This project identifies key problem areas (like new hire retention, low pay, and high-risk roles) by analyzing data by age, salary, job role, and tenure. The goal is to help HR make data-driven decisions to reduce attrition. Tools: Power BI, Power Query, DAX.
 
-The dashboard was built using the followings tools and technologies:
+# Tech Stack
 
+The dashboard was built using the followings tools and technologies:
 
  Power BI Desktop - Main data visualization platform used for report creation.
 
@@ -13,8 +16,9 @@ The dashboard was built using the followings tools and technologies:
 
  File Format - .pbix for development and .png for dashboard previews
 
-Business Problem:
+# Features
 
+Business Problem:
 
 The company was losing too many employees, and it cost a lot of money to hire and train new people. The managers didn't know the real reasons why people were leaving or which departments had the biggest problem.
 
@@ -29,7 +33,6 @@ What are the main reasons people are quitting (like salary, managers, or work-li
 Are we losing new employees or older, experienced ones?
 
 Key Visuals:
-
 
 I used a mix of charts to tell the story behind the data:
 
@@ -56,7 +59,6 @@ Insight: For example, the dashboard clearly showed that the Sales team had the h
 Action: Because of this insight, the company reviewed the salary and bonus plan for the Sales team, which helped in keeping more employees.
 
 Screenshot:
-
 
 https://github.com/anjalipathania994-cmd/HR-attrition-analysis-dashboard-Project/blob/main/HR%20ATTRITION%20ANALYSIS%20Dashboard%20image.png
 
